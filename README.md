@@ -1,5 +1,9 @@
 # Perceptron_avg_vs_passiveAggresive
 
+![png](question.png)
+
+![png](question_.png)
+
 =============== Perceptron ===============
 
 
